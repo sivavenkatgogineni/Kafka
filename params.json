@@ -1,6 +1,6 @@
 {
   "name": "Kafka",
   "tagline": "Introduction to kafka",
-  "body": "### Kafka.\r\nKafka is a messaging queue.\r\n\r\n### Prime concepts of kafka:\r\n1. Producer\r\n2. Consumer and Consumer Group\r\n3. Brokers\r\n4. Partitions\r\n5. Topics\r\n6. Replication\r\n\r\n\r\n\r\n### Authors and Contributors\r\nSiva Venkat Gogineni,\r\nLead Big Data Engineer/ Big Data Architect,\r\n[BehaviorMatrix](http://www.behaviormatrix.com/)\r\n\r\n[contact](mailto:gogineni.sivavenkat@gmail.com)\r\n",
+  "body": "### Kafka.\r\nApache Kafka is a distributed messaging System. The data is stored as commit logs. Kafka has \r\n\r\n### Prime concepts of kafka:\r\n1. Producer\r\n2. Consumer and Consumer Group\r\n3. Brokers\r\n4. Partitions\r\n5. Topics\r\n6. Replication\r\n\r\n\r\n\r\n### Authors and Contributors\r\nSiva Venkat Gogineni,\r\nLead Big Data Engineer/ Big Data Architect,\r\n[BehaviorMatrix](http://www.behaviormatrix.com/)\r\n\r\n[contact](mailto:gogineni.sivavenkat@gmail.com)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
