@@ -1,6 +1,6 @@
 {
   "name": "Kafka",
   "tagline": "Introduction to kafka",
-  "body": "### Kafka.\r\nKafka is a messaging queue.\r\n\r\n### Prime concepts of kafka:\r\n1. Producer\r\n2. Consumer\r\n3. Brokers\r\n4. Partitions\r\n5. Topics\r\n6. Replication\r\n\r\n\r\n\r\n### Authors and Contributors\r\nSiva Venkat Gogineni,\r\nLead Big Data Engineer/ Big Data Architect,\r\n[BeahviorMatrix](http://www.behaviormatrix.com/)\r\n\r\n### Support or Contact\r\nHaving any comments or feedback about with the Pages?  [contact support](mail:gogineni.sivavenkat@gmail.com) and we’ll help you sort it out.\r\n",
+  "body": "### Kafka.\r\nKafka is a messaging queue.\r\n\r\n### Prime concepts of kafka:\r\n1. Producer\r\n2. Consumer\r\n3. Brokers\r\n4. Partitions\r\n5. Topics\r\n6. Replication\r\n\r\n\r\n\r\n### Authors and Contributors\r\nSiva Venkat Gogineni,\r\nLead Big Data Engineer/ Big Data Architect,\r\n[BehaviorMatrix](http://www.behaviormatrix.com/)\r\n\r\n### Support or Contact\r\nHaving any comments or feedback about with the Pages?  [contact support](mailto:gogineni.sivavenkat@gmail.com) and we’ll help you sort it out.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
